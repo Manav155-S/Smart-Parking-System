@@ -4,14 +4,13 @@
 
 A real-time, IoT-based solution designed to monitor and manage parking space availability. This project uses ultrasonic sensors to detect vehicles and a Firebase backend to display live status on a mobile dashboard.
 
-
 ---
 
 ## 🛠️ Technology & Hardware Stack
 
-* [cite_start]**Hardware:** NodeMCU (ESP8266), Ultrasonic Sensors (HC-SR04) 
-* [cite_start]**Cloud & Backend:** Google Firebase (Realtime Database) 
-* [cite_start]**Mobile App:** React Native 
+* **Hardware:** NodeMCU (ESP8266), Ultrasonic Sensors (HC-SR04) 
+* **Cloud & Backend:** Google Firebase (Realtime Database) 
+* **Mobile App:** React Native 
 * **Firmware Language:** C/C++ (for NodeMCU)
 
 ---
